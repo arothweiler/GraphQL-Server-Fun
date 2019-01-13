@@ -1,9 +1,7 @@
-# Customerbase GraphQL Server
+# GraphQL Server
 
 Node.js/Express CRUD backend using GraphQL and JSON-Server
-
-### Version
-1.0.0
+This project was a tutorial from a Traversy Media
 
 ## Usage
 
